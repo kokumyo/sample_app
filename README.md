@@ -1,29 +1,28 @@
 <<<<<<< HEAD
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Name
+====
 
-Things you may want to cover:
+Overview
 
-* Ruby version
 
-* System dependencies
+## Description
 
-* Configuration
+## Demo
 
-* Database creation
+## VS.
 
-* Database initialization
+## Requirement
 
-* How to run the test suite
+## Usage
 
-* Services (job queues, cache servers, search engines, etc.)
+## Install
 
-* Deployment instructions
+## Contirubute
 
-* ...
-=======
-# sample_app
-Rails Tutorial Sample Application
+## Licence
+
+## Author
+
 >>>>>>> origin/master
